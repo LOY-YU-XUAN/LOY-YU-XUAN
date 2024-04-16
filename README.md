@@ -5,9 +5,11 @@
 
 - 📫 How to reach me **1221208223@student.mmu.edu.my**
 
+- I'm passionate about Web Design, undeniably beauty is the first element to attract someone's eyes.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/loy yu xuan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="loy yu xuan" height="30" width="40" /></a>
+<a href="https://fb.com/Loy Yu Xuan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="loy yu xuan" height="30" width="40" /></a>
 <a href="https://instagram.com/yicell.1902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yicell.1902" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/伊谦爱吃肉" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="伊谦爱吃肉" height="30" width="40" /></a>
 </p>
